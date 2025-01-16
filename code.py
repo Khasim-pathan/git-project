@@ -1,0 +1,1 @@
+print("khasim pathan python code ")
